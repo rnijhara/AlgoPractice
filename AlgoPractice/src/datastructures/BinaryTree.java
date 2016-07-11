@@ -1,4 +1,4 @@
-package random;
+package datastructures;
 
 import java.util.LinkedList;
 

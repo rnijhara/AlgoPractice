@@ -1,4 +1,4 @@
-package random;
+package javatests;
 
 /*
 Regex Character classes

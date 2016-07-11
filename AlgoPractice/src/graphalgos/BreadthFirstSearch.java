@@ -1,4 +1,4 @@
-package random;
+package graphalgos;
 
 import java.util.LinkedList;
 

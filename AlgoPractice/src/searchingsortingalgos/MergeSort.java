@@ -1,4 +1,4 @@
-package random;
+package searchingsortingalgos;
 
 /*
 MergeSort is a Divide and Conquer algorithm. 

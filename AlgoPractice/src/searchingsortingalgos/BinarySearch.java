@@ -1,4 +1,4 @@
-package random;
+package searchingsortingalgos;
 
 /*
 The idea of binary search is to use the information that the array is sorted and 
